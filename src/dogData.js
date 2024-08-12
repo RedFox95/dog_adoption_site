@@ -11,7 +11,7 @@ const dogData = [
         id: "2",
         cardImage: "https://i.pinimg.com/originals/ca/4c/6b/ca4c6be8d049a58b46f9a52b2d69d764.png",
         name: "Dog dog",
-        age: "3",
+        age: "1",
         adopted: false,
         daysInShelter: "90"
     },
@@ -19,7 +19,7 @@ const dogData = [
         id: "3",
         cardImage: "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg",
         name: "Bruce",
-        age: "3",
+        age: "2",
         adopted: false,
         daysInShelter: "29"
     },
@@ -27,7 +27,7 @@ const dogData = [
         id: "4",
         cardImage: "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg",
         name: "Little King",
-        age: "3",
+        age: "6 months",
         adopted: false,
         daysInShelter: "43"
     },
@@ -35,7 +35,7 @@ const dogData = [
         id: "5",
         cardImage: "https://www.hartz.com/wp-content/uploads/2022/04/small-dog-owners-1.jpg",
         name: "Jerry",
-        age: "3",
+        age: "8",
         adopted: false,
         daysInShelter: "24"
     },
@@ -51,7 +51,7 @@ const dogData = [
         id: "7",
         cardImage: "https://static.vecteezy.com/system/resources/thumbnails/008/951/892/small_2x/cute-puppy-pomeranian-mixed-breed-pekingese-dog-run-on-the-grass-with-happiness-photo.jpg",
         name: "Squeak",
-        age: "3",
+        age: "9",
         adopted: false,
         daysInShelter: "345"
     },
@@ -59,7 +59,7 @@ const dogData = [
         id: "8",
         cardImage: "https://i0.wp.com/www.angierose.com/wp-content/uploads/2022/05/Odesa-9-years-old-1-819x1024.jpg",
         name: "Champ",
-        age: "3",
+        age: "6",
         adopted: false,
         daysInShelter: "291"
     },
@@ -67,7 +67,7 @@ const dogData = [
         id: "9",
         cardImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEXGnj2fcov0xGprnnC688YMyxVtVPS8CAg&s",
         name: "Cloud",
-        age: "3",
+        age: "1year 6months",
         adopted: false,
         daysInShelter: "2"
     }
