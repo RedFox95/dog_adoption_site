@@ -1,4 +1,5 @@
 import Card from "./components/Card";
+import Navbar from "./components/Navbar.js";
 import dogData from "./dogData.js";
 
 console.log(dogData)
@@ -15,7 +16,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>I'm the app</h1>
+      <Navbar />
       <div className="dog-scroller">
         {dogs}
       </div>
