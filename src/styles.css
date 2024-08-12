@@ -1,9 +1,11 @@
 .card {
     border: 3px solid black;
     min-width: 400px;
+    min-height: 400px;
     margin: 10px;
     border-radius: 10px;
     position: relative;
+    background-color: #9BF6FF;
 }
 
 .card--badge {
@@ -19,12 +21,22 @@
 
 .card--image {
     display: flex;
-    width: 50%;
     margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    background-color: white;
 }
 
 .card--title {
     font-weight: bolder;
+}
+
+.card--info {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 10px 0px 10px;
+    justify-content: center;
 }
 
 .dog-scroller {
