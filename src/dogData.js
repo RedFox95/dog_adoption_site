@@ -1,4 +1,4 @@
-export default [
+const dogData = [
     {
         id: "1",
         cardImage: "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHUyMzMxNzg4LWltYWdlLXJtNTAzLTAxXzEtbDBqOXFyYzMucG5n.png",
@@ -72,3 +72,5 @@ export default [
         daysInShelter: "2"
     }
 ]
+
+export default dogData;
